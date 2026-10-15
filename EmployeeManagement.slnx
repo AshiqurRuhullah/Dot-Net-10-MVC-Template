@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EmployeeManagement.Business/EmployeeManagement.Business.csproj" />
+  <Project Path="EmployeeManagement.DataAccess/EmployeeManagement.DataAccess.csproj" />
+  <Project Path="EmployeeManagement.Entities/EmployeeManagement.Entities.csproj" />
+  <Project Path="EmployeeManagement.Web/EmployeeManagement.Web.csproj" />
+</Solution>
